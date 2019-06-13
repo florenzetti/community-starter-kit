@@ -1,1 +1,0 @@
-<h1>ISSUE TEMPLATE</h1>
